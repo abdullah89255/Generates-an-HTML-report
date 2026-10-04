@@ -15,7 +15,7 @@ You need Python installed. You don't need any external libraries (it uses standa
 1.  Open your terminal.
 2.  Navigate to your folder:
     ```bash
-    cd /home/hunter69/Desktop/Bug-Hunting/clearme.com/
+    cd Folder path
     ```
 3.  Create the script file (you can use `nano` or any text editor):
     ```bash
